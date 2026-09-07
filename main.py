@@ -1,3 +1,5 @@
+"""Simple demo script for Git practice."""
+
 def greet(name):
     print(f"Hello, {name}!")
 
